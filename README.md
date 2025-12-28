@@ -18,3 +18,10 @@ receive the messages that was sent by the customers. The shop owner mainly is th
 
 B. Users (Customers) – They are the ones who will be ordering products from the  shop. They can create their own account to be able to browse the clothing shop, 
 view the products, and order from the shop.
+
+
+## Contributors’ GitHub Profile Links:
+
+- [@alyssanew] (add-your-link)
+- [@jeysiiiiiii] (add-your-link)
+- [@ackleely](https://github.com/yourusername)
