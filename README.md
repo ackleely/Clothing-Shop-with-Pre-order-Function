@@ -23,5 +23,5 @@ view the products, and order from the shop.
 ## Contributors’ GitHub Profile Links:
 
 - [@alyssanew] (add-your-link)
-- [@jeysiiiiiii] (add-your-link)
+- [@jeysiiiiiii](https://github.com/jeysiiiiiii)
 - [@ackleely](https://github.com/yourusername)
